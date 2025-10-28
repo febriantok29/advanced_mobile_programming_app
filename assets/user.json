@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "first_name": "Jasper",
+    "last_name": null,
+    "email": "jbillham0@virginia.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Aile",
+    "last_name": "Binnie",
+    "email": "abinnie1@exblog.jp",
+    "gender": "Female"
+  }
+]
